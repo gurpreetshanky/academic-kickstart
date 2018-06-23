@@ -34,6 +34,4 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Hi, I'm Gurpreet Singh and I'm a Computer Vision Engineer/Computer Engineer/programmer. I enjoy working with new technologies. Currently, I'm working extensively in Rust and Nim. My research areas include Computer Vision, 3d Computer Vision, Deep Learning, Embedded Systems and VLSI Design. I often enjoy working in low-level languages. My current favourite one is Rust. Python was my first love and I still use it. 
